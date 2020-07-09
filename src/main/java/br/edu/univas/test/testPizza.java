@@ -9,9 +9,9 @@ import br.edu.univas.modal.Pizza;
 public class testPizza {
 
     public static void main(String[] agrs) {
-    	//Insert();
+    	Insert();
     	//Delete(4);//inserir id da pizza que quero excluir
-    	Update(2);//inserir id da pizza que quero atualizar
+    	//Update(2);//inserir id da pizza que quero atualizar
     	//SelectAll();
     }
      	
